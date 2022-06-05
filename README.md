@@ -1,1 +1,1 @@
-# peronal-password-keeper
+# personal-password-keeper
